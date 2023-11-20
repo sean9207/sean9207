@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sean
-- 👀 I’m interested in all this tech
+- 👀 I’m interested in all things tech
 - 🌱 I’m currently learning cyber security and network forensics 
 - 📫 you can reach me through gothub
 
