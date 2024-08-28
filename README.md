@@ -5,7 +5,7 @@
     <div class="container">
         <section class="section">
             <h2>About Me</h2>
-            <p>Hello! I'm a passionate Cyber Security professional with a focus on protecting organizations from cyber threats. I have a strong background in ethical hacking, penetration testing, and digital forensics. Below are some of my skills and projects.</p>
+            <p>Hello! I'm a passionate about Cyber Security and love to problem solve.</p>
         </section>
         <section class="section">
             <h2>Skills</h2>
