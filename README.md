@@ -27,9 +27,9 @@
                     <a href="https://github.com/sean9207/Pygame-college-project.git" target="_blank">View on GitHub</a>
                 </li>
                 <li>
-                    <h3>Project 2: Network Security Monitoring</h3>
-                    <p>Description: Implemented a network security monitoring solution using open-source tools such as Snort and Wireshark, and developed custom scripts for automated threat detection.</p>
-                    <a href="https://github.com/yourusername/project2" target="_blank">View on GitHub</a>
+                    <h3>Project 2: HTML website project</h3>
+                    <p>Description: Create a website for a made up guest house of our choice.</p>
+                    <a href="https://github.com/sean9207/HTML-project" target="_blank">View on GitHub</a>
                 </li>
                 <li>
                     <h3>Project 3: Incident Response Plan</h3>
