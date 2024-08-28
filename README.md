@@ -32,8 +32,8 @@
                     <a href="https://github.com/sean9207/HTML-project" target="_blank">View on GitHub</a>
                 </li>
                 <li>
-                    <h3>Project 3: Incident Response Plan</h3>
-                    <p>Description: Developed an incident response plan for a simulated enterprise environment, including procedures for identification, containment, eradication, and recovery from cyber incidents.</p>
+                    <h3>Project 3: Capstone Project</h3>
+                    <p>Description: Design and configure a new companies network for there office space </p>
                     <a href="https://github.com/yourusername/project3" target="_blank">View on GitHub</a>
                 </li>
             </ul>
