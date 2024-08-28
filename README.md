@@ -10,12 +10,12 @@
         <section class="section">
             <h2>Skills</h2>
             <ul class="skills-list">
-                <li>Penetration Testing</li>
-                <li>Network Security</li>
-                <li>Incident Response</li>
+                <li>Ethical hacking</li>
+                <li>Networking</li>
+                <li>Data security</li>
                 <li>Digital Forensics</li>
-                <li>Malware Analysis</li>
-                <li>Cryptography</li>
+                <li>cloud computing</li>
+                <li>computer arcitecture</li>
             </ul>
         </section>
         <section class="section">
