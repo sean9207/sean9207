@@ -24,7 +24,7 @@
                 <li>
                     <h3>Project 1: College project make a Python game </h3>
                     <p>Description: We were tasked to modify a python game called Fruit Ninja and make it our own. I decided to make it a aliens movie theme and added in my own characters music and other pages to build the game out abit more.</p>
-                    <a href="https://github.com/yourusername/project1" target="_blank">View on GitHub</a>
+                    <a href="https://github.com/sean9207/Pygame-college-project.git" target="_blank">View on GitHub</a>
                 </li>
                 <li>
                     <h3>Project 2: Network Security Monitoring</h3>
