@@ -5,7 +5,7 @@
     <div class="container">
         <section class="section">
             <h2>About Me</h2>
-            <p>Hello! I am hard working, punctual and a quick learner. I can work on my own or as part of a team. I enjoy learning new things and especially enjoy problem solving. I have many hobbies as I like to do different things and learn new skills. Have a real passion for cyber security and I am looking forward to learning more and one day being able to become part of a team and learning from professionals.</p>
+            <p>Hello! My name is Sean Young and welcome to my github page.I am hard working, punctual and a quick learner. I can work on my own or as part of a team. I enjoy learning new things and especially enjoy problem solving. I have many hobbies as I like to do different things and learn new skills. Have a real passion for cyber security and I am looking forward to learning more and one day being able to become part of a team and learning from professionals.</p>
         </section>
         <section class="section">
             <h2>Skills</h2>
