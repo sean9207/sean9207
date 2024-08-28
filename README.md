@@ -22,8 +22,8 @@
             <h2>College Projects and Class Work</h2>
             <ul class="projects-list">
                 <li>
-                    <h3>Project 1: Web Application Penetration Testing</h3>
-                    <p>Description: Conducted a comprehensive security assessment of a web application, identifying and mitigating several vulnerabilities including SQL injection, XSS, and CSRF.</p>
+                    <h3>Project 1: College project make a Python game </h3>
+                    <p>Description: We were tasked to modify a python game called Fruit Ninja and make it our own. I decided to make it a aliens movie theme and added in my own characters music and other pages to build the game out abit more.</p>
                     <a href="https://github.com/yourusername/project1" target="_blank">View on GitHub</a>
                 </li>
                 <li>
